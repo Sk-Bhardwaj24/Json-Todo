@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "title": "Eat",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Code",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "sleep",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "learn html",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "learn css",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "learn react",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "learn mangodb",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "learn Dsa",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "learn vue",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "learn vue",
+      "status": false,
+      "id": 10
+    }
+  ]
+}
